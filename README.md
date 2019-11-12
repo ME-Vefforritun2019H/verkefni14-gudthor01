@@ -134,14 +134,14 @@ Basic Javascript Instructions
 4.12  Skilgreinið breytuna elSign og setjið inní breytuna elementið með id userSign í HTML skjalinu
 4.13  Breytið texta innihaldinu í breytunni elSign í gildið sem er inní breytunni sign
 
-4.14  Skilgreinið breytuna elTiles og setjið inní breytuna elementið með id tiles í HTML skjalinu
-4.15  Breytið texta innihaldinu í breytunni elTiles í gildið sem er inní breytunni tiles
+b4.14  Skilgreinið breytuna elTiles og setjið inní breytuna elementið með id tiles í HTML skjalinu
+b4.15  Breytið texta innihaldinu í breytunni elTiles í gildið sem er inní breytunni tiles
 
-4.16  Skilgreinið breytuna elSubTotal og setjið inní breytuna elementið með id subTotal
-4.17  Breytið texta innihaldinu í breytunni elSubTotal í strenginn "$" og gildið inní breytunni subTotal
+b4.16  Skilgreinið breytuna elSubTotal og setjið inní breytuna elementið með id subTotal
+b4.17  Breytið texta innihaldinu í breytunni elSubTotal í strenginn "$" og gildið inní breytunni subTotal
 
-4.18  Skilgreinið breytuna elShipping og setjið inní breytuna elementið með id shipping
-4.19  Breytið texta innihaldinu í breytunni elShipping í strenginn "$" og gildið inní breytunni shipping
+b4.18  Skilgreinið breytuna elShipping og setjið inní breytuna elementið með id shipping
+b4.19  Breytið texta innihaldinu í breytunni elShipping í strenginn "$" og gildið inní breytunni shipping
 
 4.20  Skilgreinið breytuna elGrandTotal og setjið inní breytuna elementið með id grandTotal
 4.21  Breytið texta innihaldinu í breytunni elGrandTotal í strenginn "$" og gildið í breytunni grandTotal
